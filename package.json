@@ -1,0 +1,28 @@
+{
+  "name": "linkedin-automation",
+  "version": "1.0.0",
+  "description": "Personal LinkedIn connection message drafting tool using Playwright",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "connect": "node src/connect.js",
+    "connect:test": "node scripts/test-connect-scan.js",
+    "login": "node src/index.js --login-only",
+    "login:account": "node scripts/login-account.js",
+    "start:account": "node scripts/run-account.js",
+    "verify": "node scripts/verify-project.js",
+    "backend": "node backend/src/server.js",
+    "frontend": "npm run dev --prefix frontend",
+    "dev": "start \"Backend\" cmd /k npm run backend && start \"Frontend\" cmd /k npm run frontend",
+    "dev:backend": "node backend/src/server.js",
+    "dev:frontend": "npm run dev --prefix frontend"
+  },
+  "keywords": ["linkedin", "playwright", "automation"],
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "playwright": "^1.50.1"
+  }
+}

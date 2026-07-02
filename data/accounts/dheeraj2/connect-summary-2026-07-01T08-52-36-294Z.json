@@ -1,0 +1,81 @@
+{
+  "completedAt": "2026-07-01T08:52:36.294Z",
+  "mode": "connect",
+  "role": "Software Engineer",
+  "location": "usa",
+  "notePreview": "Hi! I'm Dheeraj, a CS (AI/ML) grad seeking Software Engineer roles. Would appreciate your guidance. Thanks!",
+  "candidatesFile": "D:\\new Folder of D\\Projects\\Linkdin_project\\data\\accounts\\dheeraj2\\connect-candidates-2026-07-01T08-52-36-293Z.json",
+  "sendEnabled": true,
+  "successCount": 8,
+  "skippedCount": 0,
+  "failedCount": 0,
+  "totalSentAllTime": 8,
+  "success": [
+    {
+      "name": "Manav Rajvanshi",
+      "profileUrl": "https://www.linkedin.com/in/manavrajvanshi",
+      "headline": "",
+      "slug": "manavrajvanshi",
+      "connectAria": "Invite Manav Rajvanshi to connect",
+      "sent": true
+    },
+    {
+      "name": "Bhanu K",
+      "profileUrl": "https://www.linkedin.com/in/bhanu-k-a0ab6a15a",
+      "headline": "",
+      "slug": "bhanu-k-a0ab6a15a",
+      "connectAria": "Invite Bhanu K to connect",
+      "sent": true
+    },
+    {
+      "name": "Santosh Mishra",
+      "profileUrl": "https://www.linkedin.com/in/santosh-mishra-b38b61255",
+      "headline": "",
+      "slug": "santosh-mishra-b38b61255",
+      "connectAria": "Invite Santosh Mishra to connect",
+      "sent": true
+    },
+    {
+      "name": "Het Jasoliya",
+      "profileUrl": "https://www.linkedin.com/in/het-jasoliya-273046419",
+      "headline": "",
+      "slug": "het-jasoliya-273046419",
+      "connectAria": "Invite Het Jasoliya to connect",
+      "sent": true
+    },
+    {
+      "name": "Tamil Mani",
+      "profileUrl": "https://www.linkedin.com/in/tamil-mani-8990a4141",
+      "headline": "",
+      "slug": "tamil-mani-8990a4141",
+      "connectAria": "Invite Tamil Mani to connect",
+      "sent": true
+    },
+    {
+      "name": "Ankit Kumar Parasar",
+      "profileUrl": "https://www.linkedin.com/in/ankit-kumar-parasar-568a31243",
+      "headline": "",
+      "slug": "ankit-kumar-parasar-568a31243",
+      "connectAria": "Invite Ankit Kumar Parasar to connect",
+      "sent": true
+    },
+    {
+      "name": "Dhanashree Phalke",
+      "profileUrl": "https://www.linkedin.com/in/dphalke",
+      "headline": "",
+      "slug": "dphalke",
+      "connectAria": "Invite Dhanashree Phalke to connect",
+      "sent": true
+    },
+    {
+      "name": "itsAkshuLive Akshu",
+      "profileUrl": "https://www.linkedin.com/in/itsakshulive-akshu-b07661408",
+      "headline": "",
+      "slug": "itsakshulive-akshu-b07661408",
+      "connectAria": "Invite itsAkshuLive Akshu to connect",
+      "sent": true
+    }
+  ],
+  "skipped": [],
+  "failed": []
+}

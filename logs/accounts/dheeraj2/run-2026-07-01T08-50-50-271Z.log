@@ -1,0 +1,126 @@
+=== Run started at 2026-07-01T08:50:50.284Z ===
+[2026-07-01T08:50:50.298Z] [INFO] Sending connects WITHOUT note (free account mode — unlimited invites)
+[2026-07-01T08:50:50.298Z] [INFO] Launching Chrome with persistent profile {"profileDir":"D:\\new Folder of D\\Projects\\Linkdin_project\\.browser-profile-dheeraj2","headless":false}
+[2026-07-01T08:50:50.298Z] [INFO] LinkedIn CONNECT request automation started {"accountId":"dheeraj2","role":"Software Engineer","location":"usa","maxPerRun":10,"delayRangeMs":[6000,3000],"sendEnabled":true,"sendNote":false,"noteFallback":true,"loginOnly":false}
+[2026-07-01T08:50:55.413Z] [INFO] LinkedIn session verified
+[2026-07-01T08:50:55.413Z] [INFO] Loaded connect request registry {"alreadySentCount":0}
+[2026-07-01T08:50:55.416Z] [INFO] Opening People search {"keywords":"Software Engineer usa","url":"https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20usa&origin=GLOBAL_SEARCH_HEADER"}
+[2026-07-01T08:50:59.030Z] [INFO] Search results loaded {"profiles":20,"connects":8}
+[2026-07-01T08:51:02.383Z] [SUCCESS] People search ready {"keywords":"Software Engineer usa","connectableOnPage":8,"sample":["Manav Rajvanshi","Bhanu K","Santosh Mishra"]}
+[2026-07-01T08:51:02.427Z] [INFO] Scan: 8 connectable on screen {"sentSoFar":0,"maxPerRun":10}
+[2026-07-01T08:51:02.430Z] [INFO] Processing 1/10 {"name":"Manav Rajvanshi","profileUrl":"https://www.linkedin.com/in/manavrajvanshi","headline":"","slug":"manavrajvanshi","connectAria":"Invite Manav Rajvanshi to connect"}
+[2026-07-01T08:51:02.430Z] [INFO] Connect: Manav Rajvanshi {"slug":"manavrajvanshi","connectLabel":"Invite Manav Rajvanshi to connect"}
+[2026-07-01T08:51:03.216Z] [INFO] Clicked Connect {"name":"Manav Rajvanshi"}
+[2026-07-01T08:51:07.109Z] [INFO] Sent without note (Send without a note)
+[2026-07-01T08:51:07.109Z] [SUCCESS] Invitation sent to Manav Rajvanshi {"withNote":false}
+[2026-07-01T08:51:07.114Z] [INFO] Connect progress saved {"name":"Manav Rajvanshi","totalSent":1}
+[2026-07-01T08:51:07.114Z] [SUCCESS] Done 1/10 {"name":"Manav Rajvanshi"}
+[2026-07-01T08:51:07.114Z] [INFO] Random pause 4.9s before next connect {"minMs":6000,"maxMs":3000,"actualMs":4946}
+[2026-07-01T08:51:12.070Z] [INFO] Processing 2/10 {"name":"Bhanu K","profileUrl":"https://www.linkedin.com/in/bhanu-k-a0ab6a15a","headline":"","slug":"bhanu-k-a0ab6a15a","connectAria":"Invite Bhanu K to connect"}
+[2026-07-01T08:51:12.071Z] [INFO] Connect: Bhanu K {"slug":"bhanu-k-a0ab6a15a","connectLabel":"Invite Bhanu K to connect"}
+[2026-07-01T08:51:12.674Z] [INFO] Clicked Connect {"name":"Bhanu K"}
+[2026-07-01T08:51:16.561Z] [INFO] Sent without note (Send without a note)
+[2026-07-01T08:51:16.561Z] [SUCCESS] Invitation sent to Bhanu K {"withNote":false}
+[2026-07-01T08:51:16.566Z] [INFO] Connect progress saved {"name":"Bhanu K","totalSent":2}
+[2026-07-01T08:51:16.566Z] [SUCCESS] Done 2/10 {"name":"Bhanu K"}
+[2026-07-01T08:51:16.566Z] [INFO] Random pause 4.9s before next connect {"minMs":6000,"maxMs":3000,"actualMs":4860}
+[2026-07-01T08:51:21.435Z] [INFO] Processing 3/10 {"name":"Santosh Mishra","profileUrl":"https://www.linkedin.com/in/santosh-mishra-b38b61255","headline":"","slug":"santosh-mishra-b38b61255","connectAria":"Invite Santosh Mishra to connect"}
+[2026-07-01T08:51:21.435Z] [INFO] Connect: Santosh Mishra {"slug":"santosh-mishra-b38b61255","connectLabel":"Invite Santosh Mishra to connect"}
+[2026-07-01T08:51:22.048Z] [INFO] Clicked Connect {"name":"Santosh Mishra"}
+[2026-07-01T08:51:25.927Z] [INFO] Sent without note (Send without a note)
+[2026-07-01T08:51:25.927Z] [SUCCESS] Invitation sent to Santosh Mishra {"withNote":false}
+[2026-07-01T08:51:25.930Z] [INFO] Connect progress saved {"name":"Santosh Mishra","totalSent":3}
+[2026-07-01T08:51:25.930Z] [SUCCESS] Done 3/10 {"name":"Santosh Mishra"}
+[2026-07-01T08:51:25.930Z] [INFO] Random pause 4.7s before next connect {"minMs":6000,"maxMs":3000,"actualMs":4662}
+[2026-07-01T08:51:30.609Z] [INFO] Processing 4/10 {"name":"Het Jasoliya","profileUrl":"https://www.linkedin.com/in/het-jasoliya-273046419","headline":"","slug":"het-jasoliya-273046419","connectAria":"Invite Het Jasoliya to connect"}
+[2026-07-01T08:51:30.609Z] [INFO] Connect: Het Jasoliya {"slug":"het-jasoliya-273046419","connectLabel":"Invite Het Jasoliya to connect"}
+[2026-07-01T08:51:31.225Z] [INFO] Clicked Connect {"name":"Het Jasoliya"}
+[2026-07-01T08:51:35.099Z] [INFO] Sent without note (Send without a note)
+[2026-07-01T08:51:35.099Z] [SUCCESS] Invitation sent to Het Jasoliya {"withNote":false}
+[2026-07-01T08:51:35.102Z] [INFO] Connect progress saved {"name":"Het Jasoliya","totalSent":4}
+[2026-07-01T08:51:35.103Z] [SUCCESS] Done 4/10 {"name":"Het Jasoliya"}
+[2026-07-01T08:51:35.103Z] [INFO] Random pause 3.6s before next connect {"minMs":6000,"maxMs":3000,"actualMs":3614}
+[2026-07-01T08:51:38.726Z] [INFO] Processing 5/10 {"name":"Tamil Mani","profileUrl":"https://www.linkedin.com/in/tamil-mani-8990a4141","headline":"","slug":"tamil-mani-8990a4141","connectAria":"Invite Tamil Mani to connect"}
+[2026-07-01T08:51:38.726Z] [INFO] Connect: Tamil Mani {"slug":"tamil-mani-8990a4141","connectLabel":"Invite Tamil Mani to connect"}
+[2026-07-01T08:51:39.290Z] [INFO] Clicked Connect {"name":"Tamil Mani"}
+[2026-07-01T08:51:43.107Z] [INFO] Sent without note (Send without a note)
+[2026-07-01T08:51:43.107Z] [SUCCESS] Invitation sent to Tamil Mani {"withNote":false}
+[2026-07-01T08:51:43.111Z] [INFO] Connect progress saved {"name":"Tamil Mani","totalSent":5}
+[2026-07-01T08:51:43.111Z] [SUCCESS] Done 5/10 {"name":"Tamil Mani"}
+[2026-07-01T08:51:43.111Z] [INFO] Random pause 4.9s before next connect {"minMs":6000,"maxMs":3000,"actualMs":4915}
+[2026-07-01T08:51:48.038Z] [INFO] Connect: Ankit Kumar Parasar {"slug":"ankit-kumar-parasar-568a31243","connectLabel":"Invite Ankit Kumar Parasar to connect"}
+[2026-07-01T08:51:48.038Z] [INFO] Processing 6/10 {"name":"Ankit Kumar Parasar","profileUrl":"https://www.linkedin.com/in/ankit-kumar-parasar-568a31243","headline":"","slug":"ankit-kumar-parasar-568a31243","connectAria":"Invite Ankit Kumar Parasar to connect"}
+[2026-07-01T08:51:48.609Z] [INFO] Clicked Connect {"name":"Ankit Kumar Parasar"}
+[2026-07-01T08:51:52.530Z] [INFO] Sent without note (Send without a note)
+[2026-07-01T08:51:52.530Z] [SUCCESS] Invitation sent to Ankit Kumar Parasar {"withNote":false}
+[2026-07-01T08:51:52.534Z] [INFO] Connect progress saved {"name":"Ankit Kumar Parasar","totalSent":6}
+[2026-07-01T08:51:52.535Z] [SUCCESS] Done 6/10 {"name":"Ankit Kumar Parasar"}
+[2026-07-01T08:51:52.535Z] [INFO] Random pause 3.5s before next connect {"minMs":6000,"maxMs":3000,"actualMs":3517}
+[2026-07-01T08:51:56.066Z] [INFO] Processing 7/10 {"name":"Dhanashree Phalke","profileUrl":"https://www.linkedin.com/in/dphalke","headline":"","slug":"dphalke","connectAria":"Invite Dhanashree Phalke to connect"}
+[2026-07-01T08:51:56.066Z] [INFO] Connect: Dhanashree Phalke {"slug":"dphalke","connectLabel":"Invite Dhanashree Phalke to connect"}
+[2026-07-01T08:51:56.637Z] [INFO] Clicked Connect {"name":"Dhanashree Phalke"}
+[2026-07-01T08:52:00.564Z] [INFO] Sent without note (Send without a note)
+[2026-07-01T08:52:00.564Z] [SUCCESS] Invitation sent to Dhanashree Phalke {"withNote":false}
+[2026-07-01T08:52:00.567Z] [INFO] Connect progress saved {"name":"Dhanashree Phalke","totalSent":7}
+[2026-07-01T08:52:00.567Z] [SUCCESS] Done 7/10 {"name":"Dhanashree Phalke"}
+[2026-07-01T08:52:00.567Z] [INFO] Random pause 5.9s before next connect {"minMs":6000,"maxMs":3000,"actualMs":5934}
+[2026-07-01T08:52:06.507Z] [INFO] Processing 8/10 {"name":"itsAkshuLive Akshu","profileUrl":"https://www.linkedin.com/in/itsakshulive-akshu-b07661408","headline":"","slug":"itsakshulive-akshu-b07661408","connectAria":"Invite itsAkshuLive Akshu to connect"}
+[2026-07-01T08:52:06.508Z] [INFO] Connect: itsAkshuLive Akshu {"slug":"itsakshulive-akshu-b07661408","connectLabel":"Invite itsAkshuLive Akshu to connect"}
+[2026-07-01T08:52:07.114Z] [INFO] Clicked Connect {"name":"itsAkshuLive Akshu"}
+[2026-07-01T08:52:10.991Z] [INFO] Sent without note (Send without a note)
+[2026-07-01T08:52:10.991Z] [SUCCESS] Invitation sent to itsAkshuLive Akshu {"withNote":false}
+[2026-07-01T08:52:10.995Z] [INFO] Connect progress saved {"name":"itsAkshuLive Akshu","totalSent":8}
+[2026-07-01T08:52:10.996Z] [SUCCESS] Done 8/10 {"name":"itsAkshuLive Akshu"}
+[2026-07-01T08:52:10.996Z] [INFO] Random pause 4.1s before next connect {"minMs":6000,"maxMs":3000,"actualMs":4111}
+[2026-07-01T08:52:15.926Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:16.738Z] [INFO] No new connects this pass — scrolling {"staleScrolls":1,"maxStaleScrolls":25}
+[2026-07-01T08:52:16.740Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:17.555Z] [INFO] No new connects this pass — scrolling {"staleScrolls":2,"maxStaleScrolls":25}
+[2026-07-01T08:52:17.559Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:18.363Z] [INFO] No new connects this pass — scrolling {"staleScrolls":3,"maxStaleScrolls":25}
+[2026-07-01T08:52:18.369Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:19.177Z] [INFO] No new connects this pass — scrolling {"staleScrolls":4,"maxStaleScrolls":25}
+[2026-07-01T08:52:19.183Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:19.989Z] [INFO] No new connects this pass — scrolling {"staleScrolls":5,"maxStaleScrolls":25}
+[2026-07-01T08:52:19.992Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:20.801Z] [INFO] No new connects this pass — scrolling {"staleScrolls":6,"maxStaleScrolls":25}
+[2026-07-01T08:52:20.808Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:21.616Z] [INFO] No new connects this pass — scrolling {"staleScrolls":7,"maxStaleScrolls":25}
+[2026-07-01T08:52:21.619Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:22.431Z] [INFO] No new connects this pass — scrolling {"staleScrolls":8,"maxStaleScrolls":25}
+[2026-07-01T08:52:22.434Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:23.247Z] [INFO] No new connects this pass — scrolling {"staleScrolls":9,"maxStaleScrolls":25}
+[2026-07-01T08:52:23.251Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:24.060Z] [INFO] No new connects this pass — scrolling {"staleScrolls":10,"maxStaleScrolls":25}
+[2026-07-01T08:52:24.066Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:24.871Z] [INFO] No new connects this pass — scrolling {"staleScrolls":11,"maxStaleScrolls":25}
+[2026-07-01T08:52:24.877Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:25.684Z] [INFO] No new connects this pass — scrolling {"staleScrolls":12,"maxStaleScrolls":25}
+[2026-07-01T08:52:25.687Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:26.490Z] [INFO] No new connects this pass — scrolling {"staleScrolls":13,"maxStaleScrolls":25}
+[2026-07-01T08:52:26.492Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:27.302Z] [INFO] No new connects this pass — scrolling {"staleScrolls":14,"maxStaleScrolls":25}
+[2026-07-01T08:52:27.305Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:28.115Z] [INFO] No new connects this pass — scrolling {"staleScrolls":15,"maxStaleScrolls":25}
+[2026-07-01T08:52:28.120Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:28.937Z] [INFO] No new connects this pass — scrolling {"staleScrolls":16,"maxStaleScrolls":25}
+[2026-07-01T08:52:28.943Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:29.750Z] [INFO] No new connects this pass — scrolling {"staleScrolls":17,"maxStaleScrolls":25}
+[2026-07-01T08:52:29.755Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:30.573Z] [INFO] No new connects this pass — scrolling {"staleScrolls":18,"maxStaleScrolls":25}
+[2026-07-01T08:52:30.578Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:31.395Z] [INFO] No new connects this pass — scrolling {"staleScrolls":19,"maxStaleScrolls":25}
+[2026-07-01T08:52:31.402Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:32.221Z] [INFO] No new connects this pass — scrolling {"staleScrolls":20,"maxStaleScrolls":25}
+[2026-07-01T08:52:32.223Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:33.030Z] [INFO] No new connects this pass — scrolling {"staleScrolls":21,"maxStaleScrolls":25}
+[2026-07-01T08:52:33.032Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:33.841Z] [INFO] No new connects this pass — scrolling {"staleScrolls":22,"maxStaleScrolls":25}
+[2026-07-01T08:52:33.844Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:34.661Z] [INFO] No new connects this pass — scrolling {"staleScrolls":23,"maxStaleScrolls":25}
+[2026-07-01T08:52:34.664Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:35.481Z] [INFO] No new connects this pass — scrolling {"staleScrolls":24,"maxStaleScrolls":25}
+[2026-07-01T08:52:35.484Z] [INFO] Scan: 0 connectable on screen {"sentSoFar":8,"maxPerRun":10}
+[2026-07-01T08:52:36.292Z] [INFO] No new connects this pass — scrolling {"staleScrolls":25,"maxStaleScrolls":25}
+[2026-07-01T08:52:36.296Z] [SUCCESS] Connect run completed {"sent":8,"skipped":0,"failed":0,"totalAllTime":8,"summaryPath":"D:\\new Folder of D\\Projects\\Linkdin_project\\data\\accounts\\dheeraj2\\connect-summary-2026-07-01T08-52-36-294Z.json"}
+[2026-07-01T08:52:36.580Z] [INFO] Browser closed

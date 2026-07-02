@@ -1,0 +1,12 @@
+Hi {Name},
+
+I hope you're doing well.
+
+I'm Dheeraj Kumar Yadav, a final-year B.Tech CSE (AI & ML) student. I'm currently looking for Software Development, AI/ML, or Full-Stack Engineer roles.
+
+I came across your profile and noticed that you're working at {Company}. If your company has any suitable openings and you feel my profile is a good fit, I would be truly grateful if you could refer me.
+
+Here is my resume: {ResumeLink}
+
+Thank you for your time and consideration. I really appreciate it!
+
