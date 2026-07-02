@@ -1,6 +1,48 @@
+# Dependencies
 node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Secrets & environment
 .env
+.env.local
+.env.*.local
+*.pem
+*.key
+credentials.json
+
+# LinkedIn browser sessions (COOKIES — never publish!)
 .browser-profile/
-data/*.json
-logs/*.log
+.browser-profile-*/
+.browser-*/
+.browser */
+Dheeraj/
+
+# Personal automation data
+data/**/*.json
+data/**/*.png
+!data/.gitkeep
+logs/**/*.log
+!logs/.gitkeep
+database/*.db
+database/*.db-journal
+
+# Build output
+frontend/dist/
+dist/
+
+# OS & editor
 .DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.suo
+
+# Playwright / debug artifacts
+playwright-report/
+test-results/
+*.trace.zip
+
+# Cursor / local assets
+assets/
