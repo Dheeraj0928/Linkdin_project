@@ -1,7 +1,0 @@
-=== Run started at 2026-07-01T08:27:55.036Z ===
-[2026-07-01T08:27:55.052Z] [INFO] LinkedIn automation started {"accountId":"dheeraj2","sendEnabled":true,"maxConnections":10,"dailyMessageLimit":25,"delayRangeMs":[3000,12000],"maxScrollAttempts":180,"loginOnly":true}
-[2026-07-01T08:27:55.053Z] [WARN] SEND_ENABLED is true — messages will be sent automatically
-[2026-07-01T08:27:55.053Z] [INFO] Launching Chrome with persistent profile {"profileDir":"D:\\new Folder of D\\Projects\\Linkdin_project\\.browser-profile-dheeraj2","headless":false}
-[2026-07-01T08:27:55.644Z] [INFO] Opening LinkedIn login page — please sign in manually in the browser
-[2026-07-01T08:28:27.732Z] [WARN] Initial page load failed (attempt 1), retrying... {"reason":"page.goto: Target page, context or browser has been closed"}
-[2026-07-01T08:28:29.241Z] [WARN] Initial page load failed (attempt 2), retrying... {"reason":"page.goto: Target page, context or browser has been closed"}
